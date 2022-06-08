@@ -1,7 +1,7 @@
 /**
  * Do not edit directly
- * Generated on Wed, 08 Jun 2022 05:38:09 GMT
+ * Generated on Wed, 08 Jun 2022 05:51:28 GMT
  */
 
-export const StarterButtonColorBg = "#0da1b5";
+export const StarterButtonColorBg = "#b51e0d";
 export const StarterButtonText = "#ffffff";
