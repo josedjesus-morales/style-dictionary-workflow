@@ -1,0 +1,32 @@
+{
+  "button": {
+    "color": {
+      "bg": {
+        "value": "{color.interaction}",
+        "type": "color"
+      }
+    },
+    "text": {
+      "value": "{color.white}",
+      "type": "color"
+    }
+  },
+  "color": {
+    "bg": {
+      "value": "{color.gray}",
+      "type": "color"
+    },
+    "interaction": {
+      "value": "#b6450c",
+      "type": "color"
+    },
+    "gray": {
+      "value": "#e7e0e0",
+      "type": "color"
+    },
+    "white": {
+      "value": "#fff",
+      "type": "color"
+    }
+  }
+}
