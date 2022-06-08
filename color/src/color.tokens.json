@@ -1,6 +1,24 @@
 {
-  "color-bg": "#e7e0e0",
-  "color-interaction": "#b51e0d",
-  "color-gray": "#e7e0e0",
-  "color-white": "#ffffff"
+  "color-white": "#fcfcfb",
+  "color-black": "#0a0b0b",
+  "color-primary-20": "#5effcd",
+  "color-primary-40": "#2bffbd",
+  "color-primary-60": "#00ffb0",
+  "color-primary-80": "#03865d",
+  "color-primary-100": "#026445",
+  "color-complementary-20": "#ff5e90",
+  "color-complementary-40": "#ff2b6d",
+  "color-complementary-60": "#ff004f",
+  "color-complementary-80": "#e7044a",
+  "color-complementary-100": "#660020",
+  "color-breaking-20": "#e12d05",
+  "color-breaking-40": "#6b1400",
+  "color-warning-20": "#ffc74d",
+  "color-warning-40": "#9a6c09",
+  "color-info-20": "#0c8bb0",
+  "color-info-40": "#014f79",
+  "color-lightgreen": "#e1ffcc",
+  "color-softgreen": "#bbffaa",
+  "color-coldgray": "#3c5764",
+  "color-neutralgray": "#404040"
 }
