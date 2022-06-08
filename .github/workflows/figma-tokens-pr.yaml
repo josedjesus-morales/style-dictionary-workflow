@@ -26,7 +26,7 @@ jobs:
       - name: Commit changes
         uses: EndBug/add-and-commit@v9
         with:
-          author_name: Example
-          author_email: example@gmail.com
+          author_name: josedjesus-morales
+          author_email: jose.morales@televisatim.com
           message: 'chore style-dictionary output'
           add: '.'
