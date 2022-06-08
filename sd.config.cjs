@@ -49,13 +49,21 @@ module.exports = {
       transformGroup: 'css',
       prefix: 'starter',
       buildPath: '',
-      files: generateFilesArr(coreAndSemanticTokens, 'scss', 'scss/variables'),
+      files: generateFilesArr(
+        [...coreAndSemanticTokens, ...componentTokens],
+        'scss',
+        'scss/variables'
+      ),
     },
     js: {
       transformGroup: 'js',
       prefix: 'starter',
       buildPath: '',
-      files: generateFilesArr(coreAndSemanticTokens, 'js', 'javascript/es6'),
+      files: generateFilesArr(
+        [...coreAndSemanticTokens, ...componentTokens],
+        'js',
+        'javascript/es6'
+      ),
     },
   },
 };
