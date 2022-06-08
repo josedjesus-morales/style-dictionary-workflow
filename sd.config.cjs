@@ -3,7 +3,7 @@ const componentTokens = ['button'];
 
 const tokenFilter = (cat) => (token) => {
   const { category, type } = token.attributes;
-  return ['core', 'semantic'].includes(category)
+  return ['global', 'semantic'].includes(category)
     ? type === cat
     : category === cat;
 };
@@ -19,7 +19,7 @@ const generateFilesArr = (tokensCategories, ext, format) => {
 };
 
 module.exports = {
-  source: ['**/*.tokens.json'],
+  source: ['sd-input/src/sd-input.json'],
   format: {
     /**
      * Add your custom formats here and
