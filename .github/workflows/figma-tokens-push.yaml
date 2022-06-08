@@ -8,7 +8,7 @@ on:
 jobs:
   pull-request:
     runs-on: ubuntu-latest
-    stops:
+    steps:
       - uses: actions/checkout@v2
 
       - name: Create Pull Request
