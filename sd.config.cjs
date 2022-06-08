@@ -65,5 +65,14 @@ module.exports = {
         'javascript/es6'
       ),
     },
+    'json-flat': {
+      transformGroup: 'web',
+      buildPath: '',
+      files: generateFilesArr(
+        [...coreAndSemanticTokens, ...componentTokens],
+        'json',
+        'json/flat'
+      ),
+    },
   },
 };
