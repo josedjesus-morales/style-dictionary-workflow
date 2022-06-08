@@ -1,18 +1,9 @@
 /**
  * Do not edit directly
- * Generated on Wed, 08 Jun 2022 04:46:42 GMT
+ * Generated on Wed, 08 Jun 2022 05:10:15 GMT
  */
 
-export const StarterCoreColorPrimaryBase = "#14b8a6";
-export const StarterCoreColorPrimaryLight = "#99f6e4";
-export const StarterCoreColorPrimaryDark = "#115e59";
-export const StarterCoreColorSecondaryBase = "#f97316";
-export const StarterCoreColorSecondaryLight = "#fed7aa";
-export const StarterCoreColorSecondaryDark = "#9a3412";
-export const StarterCoreColorDarkBase = "#171717";
-export const StarterCoreColorDarkMild = "#404040";
-export const StarterCoreColorLightBase = "#fafafa";
-export const StarterCoreColorLightMild = "#e5e5e5";
-export const StarterSemanticColorError = "#ef4444";
-export const StarterSemanticColorSuccess = "#22c55e";
-export const StarterSemanticColorInfo = "#0ea5e9";
+export const StarterColorBg = "#e7e0e0";
+export const StarterColorInteraction = "#0d10b5";
+export const StarterColorGray = "#e7e0e0";
+export const StarterColorWhite = "#ffffff";
