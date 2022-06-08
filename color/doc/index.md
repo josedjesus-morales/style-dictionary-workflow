@@ -16,7 +16,7 @@ Primary colors of our brand.
 ```js story
 export const primary = () => html`
   <dockit-css-showcases
-    css-props-prefix="--starter-core-color-primary"
+    css-props-prefix="--tudn-color-primary"
     component-class="box"
     style-key="background-color"
   ></dockit-css-showcases>
@@ -30,7 +30,7 @@ Secondary colors of our brand.
 ```js story
 export const secondary = () => html`
   <dockit-css-showcases
-    css-props-prefix="--starter-core-color-secondary"
+    css-props-prefix="--tudn-color-complementary"
     component-class="box"
     style-key="background-color"
   ></dockit-css-showcases>
@@ -44,7 +44,7 @@ Dark colors we use throughout our applications.
 ```js story
 export const dark = () => html`
   <dockit-css-showcases
-    css-props-prefix="--starter-core-color-dark"
+    css-props-prefix="--tudn-color-black"
     component-class="box"
     style-key="background-color"
   ></dockit-css-showcases>
@@ -58,7 +58,7 @@ Light colors we use throughout our applications.
 ```js story
 export const light = () => html`
   <dockit-css-showcases
-    css-props-prefix="--starter-core-color-light"
+    css-props-prefix="--tudn-color-white"
     component-class="box"
     style-key="background-color"
   ></dockit-css-showcases>
@@ -72,7 +72,7 @@ Semantic colors we use throughout our applications.
 ```js story
 export const semantic = () => html`
   <dockit-css-showcases
-    css-props-prefix="--starter-semantic"
+    css-props-prefix="--tudn-color"
     component-class="box"
     style-key="background-color"
   ></dockit-css-showcases>
