@@ -1,0 +1,41 @@
+{
+  "global": {
+    "color": {
+      "interaction": {
+        "value": "#08d1ac",
+        "type": "color"
+      },
+      "gray": {
+        "value": "#e7e0e0",
+        "type": "color"
+      },
+      "white": {
+        "value": "#fff",
+        "type": "color"
+      }
+    }
+  },
+  "semantic": {
+    "color": {
+      "bg": {
+        "value": "{color.gray}",
+        "type": "color"
+      }
+    }
+  },
+  "button": {
+    "button": {
+      "color": {
+        "bg": {
+          "value": "{color.interaction}",
+          "type": "color"
+        }
+      },
+      "text": {
+        "value": "{color.white}",
+        "type": "color"
+      }
+    }
+  },
+  "$themes": []
+}
