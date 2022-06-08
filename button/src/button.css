@@ -1,5 +1,5 @@
 .btn {
-  background-color: var(--starter-button-primary-background);
+  background-color: var(--starter-button-color-bg);
   padding: var(--starter-button-primary-padding-vertical)
     var(--starter-button-primary-padding-horizontal);
   border-radius: var(--starter-button-primary-border-radius);
