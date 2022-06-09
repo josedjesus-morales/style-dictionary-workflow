@@ -1,10 +1,10 @@
 /**
  * Do not edit directly
- * Generated on Thu, 09 Jun 2022 17:13:03 GMT
+ * Generated on Thu, 09 Jun 2022 17:18:02 GMT
  */
 
 export const TudnColorWhite = "#fcfcfb";
-export const TudnColorBlack = "#000000";
+export const TudnColorBlack = "#0a0b0b";
 export const TudnColorPrimary20 = "#5effcd";
 export const TudnColorPrimary40 = "#2bffbd";
 export const TudnColorPrimary60 = "#00ffb0";
