@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 09 Jun 2022 17:18:02 GMT
+ * Generated on Thu, 16 Jun 2022 23:55:59 GMT
  */
 
 export const TudnColorWhite = "#fcfcfb";
