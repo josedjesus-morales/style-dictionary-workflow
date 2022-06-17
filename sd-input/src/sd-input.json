@@ -158,5 +158,35 @@
       "value": "#404040",
       "type": "color"
     }
+  },
+  "space": {
+    "xxsmall": {
+      "value": 8,
+      "type": "spacing"
+    },
+    "xsmall": {
+      "value": 16,
+      "type": "spacing"
+    },
+    "medium": {
+      "value": 32,
+      "type": "spacing"
+    },
+    "large": {
+      "value": 40,
+      "type": "spacing"
+    },
+    "xlarge": {
+      "value": 48,
+      "type": "spacing"
+    },
+    "xxlarge": {
+      "value": 56,
+      "type": "spacing"
+    },
+    "xxxlarge": {
+      "value": 64,
+      "type": "spacing"
+    }
   }
 }
