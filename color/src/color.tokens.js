@@ -1,27 +1,33 @@
 /**
  * Do not edit directly
- * Generated on Wed, 22 Jun 2022 16:16:42 GMT
+ * Generated on Wed, 22 Jun 2022 21:02:47 GMT
  */
 
 export const TudnColorDesertStorm = "#fcfcfb";
-export const TudnColorBlack = "#0a0b0b";
-export const TudnColorPrimary20 = "#5effcd";
-export const TudnColorPrimary40 = "#2bffbd";
-export const TudnColorPrimary60 = "#00ffb0";
-export const TudnColorPrimary80 = "#03865d";
-export const TudnColorPrimary100 = "#026445";
-export const TudnColorComplementary20 = "#ff5e90";
-export const TudnColorComplementary40 = "#ff2b6d";
-export const TudnColorComplementary60 = "#ff004f";
-export const TudnColorComplementary80 = "#e7044a";
-export const TudnColorComplementary100 = "#660020";
-export const TudnColorBreaking20 = "#e12d05";
-export const TudnColorBreaking40 = "#6b1400";
-export const TudnColorWarning20 = "#ffc74d";
-export const TudnColorWarning40 = "#9a6c09";
-export const TudnColorInfo20 = "#0c8bb0";
-export const TudnColorInfo40 = "#014f79";
-export const TudnColorLightgreen = "#e1ffcc";
-export const TudnColorSoftgreen = "#bbffaa";
-export const TudnColorColdgray = "#3c5764";
-export const TudnColorNeutralgray = "#404040";
+export const TudnColorWoodsmoke = "#0a0b0b";
+export const TudnColorPrimaryAquamarine = "#5effcd";
+export const TudnColorPrimarySpringGreen = "#00ffb0";
+export const TudnColorPrimaryDeepSea = "#03865d";
+export const TudnColorPrimaryFunGreen = "#026445";
+export const TudnColorSecondaryRadicalRed = "#ff2b6d";
+export const TudnColorSecondaryTorchRed = "#ff004f";
+export const TudnColorSecondaryBurgundy = "#990030";
+export const TudnColorSecondaryBordeaux = "#660020";
+export const TudnColorBreakingBlazeOrange = "#ff6a00";
+export const TudnColorBreakingRoseOfSharon = "#c25100";
+export const TudnColorWarningGoldenTainoi = "#ffc74d";
+export const TudnColorWarningButteredRum = "#9a6c09";
+export const TudnColorInfoMalibu = "#63d3f4";
+export const TudnColorInfoAllports = "#02799c";
+export const TudnColorSnowFlurry = "#e1ffcc";
+export const TudnColorReef = "#bbffaa";
+export const TudnColorFiord = "#3c5764";
+export const TudnColorTundora = "#404040";
+export const TudnColorSuccessHarlequin = "#2aff00";
+export const TudnColorSuccessJapaneseLaurel = "#198703";
+export const TudnColorErrorRedOrange = "#ff3333";
+export const TudnColorErrorMonzo = "#d50b0b";
+export const TudnColorCapeCod = "#3a4040";
+export const TudnColorSirocco = "#6b7676";
+export const TudnColorSilverSand = "#bac0c0";
+export const TudnColorBlackHaze = "#eff0f0";

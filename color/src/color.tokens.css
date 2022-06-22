@@ -1,29 +1,35 @@
 /**
  * Do not edit directly
- * Generated on Wed, 22 Jun 2022 16:16:42 GMT
+ * Generated on Wed, 22 Jun 2022 21:02:47 GMT
  */
 
 :root {
   --tudn-color-desert-storm: #fcfcfb;
-  --tudn-color-black: #0a0b0b;
-  --tudn-color-primary-20: #5effcd;
-  --tudn-color-primary-40: #2bffbd;
-  --tudn-color-primary-60: #00ffb0;
-  --tudn-color-primary-80: #03865d;
-  --tudn-color-primary-100: #026445;
-  --tudn-color-complementary-20: #ff5e90;
-  --tudn-color-complementary-40: #ff2b6d;
-  --tudn-color-complementary-60: #ff004f;
-  --tudn-color-complementary-80: #e7044a;
-  --tudn-color-complementary-100: #660020;
-  --tudn-color-breaking-20: #e12d05;
-  --tudn-color-breaking-40: #6b1400;
-  --tudn-color-warning-20: #ffc74d;
-  --tudn-color-warning-40: #9a6c09;
-  --tudn-color-info-20: #0c8bb0;
-  --tudn-color-info-40: #014f79;
-  --tudn-color-lightgreen: #e1ffcc;
-  --tudn-color-softgreen: #bbffaa;
-  --tudn-color-coldgray: #3c5764;
-  --tudn-color-neutralgray: #404040;
+  --tudn-color-woodsmoke: #0a0b0b;
+  --tudn-color-primary-aquamarine: #5effcd;
+  --tudn-color-primary-spring-green: #00ffb0;
+  --tudn-color-primary-deep-sea: #03865d;
+  --tudn-color-primary-fun-green: #026445;
+  --tudn-color-secondary-radical-red: #ff2b6d;
+  --tudn-color-secondary-torch-red: #ff004f;
+  --tudn-color-secondary-burgundy: #990030;
+  --tudn-color-secondary-bordeaux: #660020;
+  --tudn-color-breaking-blaze-orange: #ff6a00;
+  --tudn-color-breaking-rose-of-sharon: #c25100;
+  --tudn-color-warning-golden-tainoi: #ffc74d;
+  --tudn-color-warning-buttered-rum: #9a6c09;
+  --tudn-color-info-malibu: #63d3f4;
+  --tudn-color-info-allports: #02799c;
+  --tudn-color-snow-flurry: #e1ffcc;
+  --tudn-color-reef: #bbffaa;
+  --tudn-color-fiord: #3c5764;
+  --tudn-color-tundora: #404040;
+  --tudn-color-success-harlequin: #2aff00;
+  --tudn-color-success-japanese-laurel: #198703;
+  --tudn-color-error-red-orange: #ff3333;
+  --tudn-color-error-monzo: #d50b0b;
+  --tudn-color-cape-cod: #3a4040;
+  --tudn-color-sirocco: #6b7676;
+  --tudn-color-silver-sand: #bac0c0;
+  --tudn-color-black-haze: #eff0f0;
 }
