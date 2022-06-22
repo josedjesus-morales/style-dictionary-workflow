@@ -2,59 +2,57 @@
   "semantic": {
     "bg": {
       "default": {
-        "value": "{color.black}",
+        "value": "{color.WOODSMOKE}",
         "type": "color"
       },
       "variant1": {
-        "value": "{color.coldgray}",
+        "value": "{color.FIORD}",
         "type": "color"
       },
       "variant2": {
-        "value": "{color.neutralgray}",
-        "type": "color"
-      }
-    },
-    "success": {
-      "primary": {
-        "value": "{color.primary.20}",
-        "type": "color"
-      },
-      "complementary": {
-        "value": "{color.complementary.80}",
+        "value": "{color.TUNDORA}",
         "type": "color"
       }
     },
     "breaking": {
-      "value": "{color.breaking.40}",
+      "value": "{color.breaking.ROSE_OF_SHARON}",
       "type": "color"
     },
     "warning": {
-      "value": "{color.warning.40}",
+      "value": "{color.warning.BUTTERED_RUM}",
       "type": "color"
     },
     "info": {
-      "value": "{color.info.40}",
+      "value": "{color.info.ALLPORTS}",
+      "type": "color"
+    },
+    "error": {
+      "value": "{color.error.MONZO}",
+      "type": "color"
+    },
+    "success": {
+      "value": "{color.success.JAPANESE_LAUREL}",
       "type": "color"
     }
   },
   "gradient": {
     "primary": {
       "color1": {
-        "value": "{color.primary.60}",
+        "value": "{color.primary.SPRING_GREEN}",
         "type": "color"
       },
       "color2": {
-        "value": "{color.primary.80}",
+        "value": "{color.primary.DEEP_SEA}",
         "type": "color"
       }
     },
     "complementary": {
       "color1": {
-        "value": "{color.complementary.40}",
+        "value": "{color.secondary.RADICAL_RED}",
         "type": "color"
       },
       "color2": {
-        "value": "{color.complementary.80}",
+        "value": "{color.secondary.BURGUNDY}",
         "type": "color"
       }
     }
@@ -64,98 +62,126 @@
       "value": "#fcfcfb",
       "type": "color"
     },
-    "black": {
+    "WOODSMOKE": {
       "value": "#0a0b0b",
       "type": "color"
     },
     "primary": {
-      "20": {
+      "AQUAMARINE": {
         "value": "#5EFFCD",
         "type": "color"
       },
-      "40": {
-        "value": "#2BFFBD",
-        "type": "color"
-      },
-      "60": {
+      "SPRING_GREEN": {
         "value": "#00FFB0",
         "type": "color"
       },
-      "80": {
+      "DEEP_SEA": {
         "value": "#03865D",
         "type": "color"
       },
-      "100": {
+      "FUN_GREEN": {
         "value": "#026445",
         "type": "color"
       }
     },
-    "complementary": {
-      "20": {
-        "value": "#FF5E90",
-        "type": "color"
-      },
-      "40": {
+    "secondary": {
+      "RADICAL_RED": {
         "value": "#ff2b6d",
         "type": "color"
       },
-      "60": {
+      "TORCH_RED": {
         "value": "#FF004f",
         "type": "color"
       },
-      "80": {
-        "value": "#e7044a",
+      "BURGUNDY": {
+        "value": "#990030",
         "type": "color"
       },
-      "100": {
+      "BORDEAUX": {
         "value": "#660020",
         "type": "color"
       }
     },
     "breaking": {
-      "20": {
-        "value": "#e12d05",
+      "BLAZE_ORANGE": {
+        "value": "#FF6A00",
         "type": "color"
       },
-      "40": {
-        "value": "#6b1400",
+      "ROSE_OF_SHARON": {
+        "value": "#C25100",
         "type": "color"
       }
     },
     "warning": {
-      "20": {
-        "value": "#ffc74d",
+      "GOLDEN_TAINOI": {
+        "value": "#FFC74D",
         "type": "color"
       },
-      "40": {
+      "BUTTERED_RUM": {
         "value": "#9a6c09",
         "type": "color"
       }
     },
     "info": {
-      "20": {
-        "value": "#0c8bb0",
+      "MALIBU": {
+        "value": "#63D3F4",
         "type": "color"
       },
-      "40": {
-        "value": "#014f79",
+      "ALLPORTS": {
+        "value": "#02799C",
         "type": "color"
       }
     },
-    "lightgreen": {
+    "SNOW_FLURRY": {
       "value": "#e1ffcc",
       "type": "color"
     },
-    "softgreen": {
+    "REEF": {
       "value": "#bbffaa",
       "type": "color"
     },
-    "coldgray": {
+    "FIORD": {
       "value": "#3c5764",
       "type": "color"
     },
-    "neutralgray": {
+    "TUNDORA": {
       "value": "#404040",
+      "type": "color"
+    },
+    "success": {
+      "HARLEQUIN": {
+        "value": "#2AFF00",
+        "type": "color"
+      },
+      "JAPANESE_LAUREL": {
+        "value": "#198703",
+        "type": "color"
+      }
+    },
+    "error": {
+      "RED_ORANGE": {
+        "value": "#FF3333",
+        "type": "color"
+      },
+      "MONZO": {
+        "value": "#D50B0B",
+        "type": "color"
+      }
+    },
+    "CAPE_COD": {
+      "value": "#3A4040",
+      "type": "color"
+    },
+    "SIROCCO": {
+      "value": "#6B7676",
+      "type": "color"
+    },
+    "SILVER_SAND": {
+      "value": "#BAC0C0",
+      "type": "color"
+    },
+    "BLACK_HAZE": {
+      "value": "#EFF0F0",
       "type": "color"
     }
   },
