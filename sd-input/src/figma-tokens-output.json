@@ -1,7 +1,7 @@
 {
   "global": {
     "color": {
-      "white": {
+      "DESERT_STORM": {
         "value": "#fcfcfb",
         "type": "color"
       },
@@ -135,7 +135,7 @@
     "semantic": {
       "bg": {
         "default": {
-          "value": "{color.white}",
+          "value": "{color.DESERT_STORM}",
           "type": "color"
         }
       },
@@ -189,7 +189,7 @@
     "semantic": {
       "bg": {
         "default": {
-          "value": "{color.white}",
+          "value": "{color.DESERT_STORM}",
           "type": "color"
         },
         "variant1": {
