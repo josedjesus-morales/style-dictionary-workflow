@@ -60,7 +60,7 @@
     }
   },
   "color": {
-    "white": {
+    "DESERT_STORM": {
       "value": "#fcfcfb",
       "type": "color"
     },
