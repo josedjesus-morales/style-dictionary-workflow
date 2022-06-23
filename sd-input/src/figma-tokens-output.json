@@ -157,6 +157,38 @@
         "value": "64",
         "type": "spacing"
       }
+    },
+    "grid": {
+      "mobile": {
+        "cols": {
+          "value": "4",
+          "type": "other"
+        },
+        "gap": {
+          "value": "16",
+          "type": "other"
+        }
+      },
+      "tablet": {
+        "cols": {
+          "value": "6",
+          "type": "other"
+        },
+        "gap": {
+          "value": "32",
+          "type": "other"
+        }
+      },
+      "desktop": {
+        "cols": {
+          "value": "12",
+          "type": "other"
+        },
+        "gap": {
+          "value": "32",
+          "type": "other"
+        }
+      }
     }
   },
   "semantic": {
