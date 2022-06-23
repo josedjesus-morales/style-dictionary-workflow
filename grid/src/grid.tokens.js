@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 23 Jun 2022 18:15:35 GMT
+ * Generated on Thu, 23 Jun 2022 18:17:32 GMT
  */
 
 export const TudnGridMobileCols = 4;
