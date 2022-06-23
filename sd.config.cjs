@@ -1,4 +1,4 @@
-const coreAndSemanticTokens = ['color', 'space'];
+const coreAndSemanticTokens = ['color', 'space', 'grid'];
 const componentTokens = ['button'];
 
 const tokenFilter = (cat) => (token) => {

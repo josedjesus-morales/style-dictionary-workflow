@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 23 Jun 2022 18:13:09 GMT
+ * Generated on Thu, 23 Jun 2022 18:15:35 GMT
  */
 
 export const TudnColorDesertStorm = "#fcfcfb";
