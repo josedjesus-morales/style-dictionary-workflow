@@ -1,11 +1,11 @@
 /**
  * Do not edit directly
- * Generated on Thu, 23 Jun 2022 18:17:32 GMT
+ * Generated on Thu, 23 Jun 2022 18:22:31 GMT
  */
 
-export const TudnGridMobileCols = 4;
-export const TudnGridMobileGap = 16;
-export const TudnGridTabletCols = 6;
-export const TudnGridTabletGap = 32;
-export const TudnGridDesktopCols = 12;
-export const TudnGridDesktopGap = 32;
+export const GridMobileCols = 4;
+export const GridMobileGap = 16;
+export const GridTabletCols = 6;
+export const GridTabletGap = 32;
+export const GridDesktopCols = 12;
+export const GridDesktopGap = 32;
