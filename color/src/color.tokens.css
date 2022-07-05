@@ -1,35 +1,35 @@
 /**
  * Do not edit directly
- * Generated on Thu, 23 Jun 2022 18:17:32 GMT
+ * Generated on Tue, 05 Jul 2022 16:39:38 GMT
  */
 
 :root {
-  --tudn-color-desert-storm: #fcfcfb;
-  --tudn-color-woodsmoke: #0a0b0b;
-  --tudn-color-primary-aquamarine: #5effcd;
-  --tudn-color-primary-spring-green: #00ffb0;
-  --tudn-color-primary-deep-sea: #03865d;
-  --tudn-color-primary-fun-green: #026445;
-  --tudn-color-secondary-radical-red: #ff2b6d;
-  --tudn-color-secondary-torch-red: #ff004f;
-  --tudn-color-secondary-burgundy: #990030;
-  --tudn-color-secondary-bordeaux: #660020;
-  --tudn-color-breaking-blaze-orange: #ff6a00;
-  --tudn-color-breaking-rose-of-sharon: #c25100;
-  --tudn-color-warning-golden-tainoi: #ffc74d;
-  --tudn-color-warning-buttered-rum: #9a6c09;
-  --tudn-color-info-malibu: #63d3f4;
-  --tudn-color-info-allports: #02799c;
-  --tudn-color-snow-flurry: #e1ffcc;
-  --tudn-color-reef: #bbffaa;
-  --tudn-color-fiord: #3c5764;
-  --tudn-color-tundora: #404040;
-  --tudn-color-success-harlequin: #2aff00;
-  --tudn-color-success-japanese-laurel: #198703;
-  --tudn-color-error-red-orange: #ff3333;
-  --tudn-color-error-monzo: #d50b0b;
-  --tudn-color-cape-cod: #3a4040;
-  --tudn-color-sirocco: #6b7676;
-  --tudn-color-silver-sand: #bac0c0;
-  --tudn-color-black-haze: #eff0f0;
+  --color-desert-storm: #fcfcfb;
+  --color-woodsmoke: #0a0b0b;
+  --color-primary-aquamarine: #5effcd;
+  --color-primary-spring-green: #00ffb0;
+  --color-primary-deep-sea: #03865d;
+  --color-primary-fun-green: #026445;
+  --color-secondary-radical-red: #ff2b6d;
+  --color-secondary-torch-red: #ff004f;
+  --color-secondary-burgundy: #990030;
+  --color-secondary-bordeaux: #660020;
+  --color-breaking-blaze-orange: #ff6a00;
+  --color-breaking-rose-of-sharon: #c25100;
+  --color-warning-golden-tainoi: #ffc74d;
+  --color-warning-buttered-rum: #9a6c09;
+  --color-info-malibu: #63d3f4;
+  --color-info-allports: #02799c;
+  --color-snow-flurry: #e1ffcc;
+  --color-reef: #bbffaa;
+  --color-fiord: #3c5764;
+  --color-tundora: #404040;
+  --color-success-harlequin: #2aff00;
+  --color-success-japanese-laurel: #198703;
+  --color-error-red-orange: #ff3333;
+  --color-error-monzo: #d50b0b;
+  --color-cape-cod: #3a4040;
+  --color-sirocco: #6b7676;
+  --color-silver-sand: #bac0c0;
+  --color-black-haze: #eff0f0;
 }

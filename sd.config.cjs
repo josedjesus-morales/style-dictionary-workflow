@@ -37,7 +37,7 @@ module.exports = {
   platforms: {
     css: {
       transformGroup: 'css',
-      prefix: 'tudn',
+      // prefix: 'tudn',
       buildPath: '',
       files: generateFilesArr(
         [...coreAndSemanticTokens, ...componentTokens],
@@ -47,7 +47,7 @@ module.exports = {
     },
     scss: {
       transformGroup: 'css',
-      prefix: 'tudn',
+      // prefix: 'tudn',
       buildPath: '',
       files: generateFilesArr(
         [...coreAndSemanticTokens, ...componentTokens],
@@ -57,7 +57,7 @@ module.exports = {
     },
     js: {
       transformGroup: 'js',
-      prefix: 'tudn',
+      // prefix: 'tudn',
       buildPath: '',
       files: generateFilesArr(
         [...coreAndSemanticTokens, ...componentTokens],
@@ -67,7 +67,7 @@ module.exports = {
     },
     'json-flat': {
       transformGroup: 'web',
-      prefix: 'tudn',
+      // prefix: 'tudn',
       buildPath: '',
       files: generateFilesArr(
         [...coreAndSemanticTokens, ...componentTokens],

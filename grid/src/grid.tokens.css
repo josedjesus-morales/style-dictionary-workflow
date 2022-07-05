@@ -1,13 +1,13 @@
 /**
  * Do not edit directly
- * Generated on Thu, 23 Jun 2022 18:17:32 GMT
+ * Generated on Tue, 05 Jul 2022 16:39:38 GMT
  */
 
 :root {
-  --tudn-grid-mobile-cols: 4;
-  --tudn-grid-mobile-gap: 16;
-  --tudn-grid-tablet-cols: 6;
-  --tudn-grid-tablet-gap: 32;
-  --tudn-grid-desktop-cols: 12;
-  --tudn-grid-desktop-gap: 32;
+  --grid-mobile-cols: 4;
+  --grid-mobile-gap: 16;
+  --grid-tablet-cols: 6;
+  --grid-tablet-gap: 32;
+  --grid-desktop-cols: 12;
+  --grid-desktop-gap: 32;
 }

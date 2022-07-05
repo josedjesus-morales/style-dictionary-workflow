@@ -189,6 +189,182 @@
           "type": "other"
         }
       }
+    },
+    "font": {
+      "primary": {
+        "value": "Roboto Flex",
+        "type": "fontFamilies"
+      },
+      "secundary": {
+        "value": "Poppins",
+        "type": "fontFamilies"
+      }
+    },
+    "font-weight": {
+      "regular": {
+        "value": "regular",
+        "type": "fontWeights"
+      },
+      "bold": {
+        "value": "bold",
+        "type": "fontWeights"
+      }
+    },
+    "font-size": {
+      "xs": {
+        "value": "12",
+        "type": "fontSizes"
+      },
+      "s": {
+        "value": "14",
+        "type": "fontSizes"
+      },
+      "base": {
+        "value": "16",
+        "type": "fontSizes"
+      },
+      "m": {
+        "value": "26",
+        "type": "fontSizes"
+      },
+      "l": {
+        "value": "42",
+        "type": "fontSizes"
+      },
+      "xl": {
+        "value": "68",
+        "type": "fontSizes"
+      }
+    },
+    "line-height": {
+      "1": {
+        "value": "120%",
+        "type": "lineHeights"
+      },
+      "2": {
+        "value": "150%",
+        "type": "lineHeights"
+      },
+      "base": {
+        "value": "1",
+        "type": "lineHeights"
+      }
+    },
+    "letter-spacing": {
+      "1": {
+        "value": "-1%",
+        "type": "letterSpacing"
+      },
+      "2": {
+        "value": "-1.5%",
+        "type": "letterSpacing"
+      },
+      "3": {
+        "value": "0.5%",
+        "type": "letterSpacing"
+      },
+      "4": {
+        "value": "1.5%",
+        "type": "letterSpacing"
+      },
+      "5": {
+        "value": "3%",
+        "type": "letterSpacing"
+      },
+      "base": {
+        "value": "0",
+        "type": "letterSpacing"
+      }
+    },
+    "base": {
+      "value": {
+        "fontFamily": "{font.secundary}",
+        "fontWeight": "{font-weight.regular}",
+        "lineHeight": "{line-height.1}",
+        "fontSize": "{font-size.base}",
+        "letterSpacing": "{letter-spacing.3}"
+      },
+      "type": "typography"
+    },
+    "base-bold": {
+      "value": {
+        "fontFamily": "{font.secundary}",
+        "fontWeight": "{font-weight.bold}",
+        "lineHeight": "{line-height.1}",
+        "fontSize": "{font-size.base}",
+        "letterSpacing": "{letter-spacing.3}"
+      },
+      "type": "typography"
+    },
+    "s": {
+      "value": {
+        "fontFamily": "{font.primary}",
+        "fontWeight": "{font-weight.regular}",
+        "lineHeight": "{line-height.2}",
+        "fontSize": "{font-size.s}",
+        "letterSpacing": "{letter-spacing.4}"
+      },
+      "type": "typography"
+    },
+    "s-bold": {
+      "value": {
+        "fontFamily": "{font.primary}",
+        "fontWeight": "{font-weight.bold}",
+        "lineHeight": "{line-height.2}",
+        "fontSize": "{font-size.s}",
+        "letterSpacing": "{letter-spacing.4}"
+      },
+      "type": "typography"
+    },
+    "xs-bold": {
+      "value": {
+        "fontFamily": "{font.primary}",
+        "fontWeight": "{font-weight.bold}",
+        "lineHeight": "{line-height.2}",
+        "fontSize": "{font-size.xs}",
+        "letterSpacing": "{letter-spacing.5}"
+      },
+      "type": "typography"
+    },
+    "xs": {
+      "value": {
+        "fontFamily": "{font.primary}",
+        "fontWeight": "{font-weight.regular}",
+        "lineHeight": "{line-height.2}",
+        "fontSize": "{font-size.xs}",
+        "letterSpacing": "{letter-spacing.5}"
+      },
+      "type": "typography"
+    },
+    "m": {
+      "value": {
+        "fontFamily": "{font.secundary}",
+        "fontWeight": "{font-weight.regular}",
+        "lineHeight": "{line-height.1}",
+        "fontSize": "{font-size.base}",
+        "letterSpacing": "{letter-spacing.base}"
+      },
+      "type": "typography"
+    },
+    "m-bold": {
+      "value": {
+        "fontFamily": "{font.secundary}",
+        "fontWeight": "{font-weight.bold}",
+        "lineHeight": "{line-height.1}",
+        "fontSize": "{font-size.base}",
+        "letterSpacing": "{letter-spacing.base}"
+      },
+      "type": "typography"
+    },
+    "l": {
+      "value": {
+        "fontFamily": "{font.secundary}",
+        "fontWeight": "{font-weight.bold}",
+        "lineHeight": "{line-height.1}",
+        "fontSize": "{font-size.m}",
+        "letterSpacing": "{letter-spacing.base}"
+      },
+      "type": "typography"
     }
   },
   "semantic": {
